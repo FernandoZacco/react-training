@@ -1,0 +1,8 @@
+const getWeatherForecastActionType = {
+    ACTION_NAME: 'GET_FORECAST_ACTION',
+    ACTION_REQUEST: 'GET_FORECAST_ACTION_REQUEST',
+    ACTION_SUCCESS: 'GET_FORECAST_ACTION_SUCCESS',
+    ACTION_FAILED: 'GET_FORECAST_ACTION_FAILED',
+};
+
+export default getWeatherForecastActionType;
